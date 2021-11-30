@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/73054276/144035363-d645724e-6b35-4ad1-83de-aa31ff5c30ca.png)
 
 
-2.Example Data!!
+2.Example Data Label!!
 
 ![image](https://user-images.githubusercontent.com/73054276/144035480-be6e6c47-dbad-46c1-9922-8784e5b157bd.png)
 
