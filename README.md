@@ -1,6 +1,9 @@
  HW01 - Analysis of Customer Behaviors
+ 
  HW02 - Jobs to be done
+ 
  HW03 - Value Proposition
+ 
  HW04 - Customer Journey
  HW05 - CLV Dashboard
  HW06 - Customer Segmentation
