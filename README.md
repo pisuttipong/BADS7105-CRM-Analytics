@@ -1,25 +1,29 @@
 ** BADS7105-CRM-Analytics**
  
- HW01 - Analysis of Customer Behaviors
+ Class 1 - Customer Analytics Overview-20210808
  
- HW02 - Jobs to be done
+ Class 2 - Consumer Behaviors-20210815
  
- HW03 - Value Proposition
+ Class 3 - CRM Framework-20210822
  
- HW04 - Customer Journey
+ Class 4_ Customer Experience Management-20210829
  
- HW05 - CLV Dashboard
+ Class 5 - Customer Insights with Multi-dimensional Analysis-20210905
  
- HW06 - Customer Segmentation
+ Class 6 - Customer Insights with Multi-dimensional Analysis-20210912
  
- HW07 - Product Recommendation
+ Class 7 - Customer Acquisition and On-boarding-20210919
  
- HW08 - Campaign Response Model
+ Class 8 - Customer Segmentation-20210926
  
- HW09 - A/B Testing 
+ Class 9 - Cross-selling models-20211017
  
- HW10 - Customer Movement Analysis  
+ Class 10 - Up-selling Analysis and Customer Response Models-20211024
  
- HW11 - Voice of Customers  
+ Class 11 - AB Testing-20211031 
  
- HW12 - Design Thinking
+ Class 12 - Churn Prediction Model-20211107
+ 
+ Class 13 - Voice of Customer Analytics-20211114
+ 
+ Class 14 - AI and CRM-20211128
