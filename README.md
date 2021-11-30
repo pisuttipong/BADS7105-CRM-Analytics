@@ -10,7 +10,7 @@
  
  Class 5 - Customer Insights with Multi-dimensional Analysis-20210905
  
- Class 6 - Customer Insights with Multi-dimensional Analysis-20210912
+ Class 6 - Customer Journey-20210912
  
  Class 7 - Customer Acquisition and On-boarding-20210919
  
