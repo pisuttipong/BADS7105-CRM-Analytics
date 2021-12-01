@@ -1,10 +1,10 @@
 Class 13 - Voice of Customer Analytics-20211114
 
-เอาข้อมูลจาก Wong Nai Review มาทำการจัดกลุ่มประเภทที่ลูกค้ารีวิว โดยใช้ K-Means Clustering & Agglomorative Clustering
+เอาข้อมูลจาก Wong Nai Review มาทำการจัดกลุ่มประเภทที่ลูกค้ารีวิว โดยใช้ K-Means Clustering & Agglomorative Clustering 
 
 ใน Step 4 - result discussion อาจารย์ ให้ลองแก้ optimize code และสรุป result ซึ่งสิ่งที่ปรับแก้จากอาจารย์คือ
 
-ใน Step2# ได้ลองทำการ set new_words ใหม่เผื่อว่าจะทำให้การทำ clustering แล้วสามารถอธิบายลักษณะของแต่ละกลุ่มได้ดีขึ้น
+ได้ลองทำการ set new_words ใหม่เผื่อว่าจะทำให้การทำ clustering แล้วสามารถอธิบายลักษณะของแต่ละกลุ่มได้ดีขึ้น
 
 โดยดูคำที่อาจจะรวมกันแล้วมีความหมาย เช่น หัว-หิน,ราช-เทวี,อ-เม-ซอน,รสชาติ-ดี,ชานม-ไข่มุก, เค้า-ดาว ไปทำเป็น new_words 
 
