@@ -1,5 +1,6 @@
 **Class 12 - Churn Prediction Model-20211107**
 
+ทดลองสร้าง table ใน Big Query โดยใช้ไฟล์ 
 **Churn Dashboard!!!**
 
 
@@ -14,8 +15,7 @@
 
 2.Example Data Label!!
 
-![image](https://user-images.githubusercontent.com/73054276/144035480-be6e6c47-dbad-46c1-9922-8784e5b157bd.png)
-
+![image](https://user-images.githubusercontent.com/73054276/144164405-fb279890-5cca-485e-a359-7d83f05d3905.png)
 
 3.Visualize by Tableau!!
 
