@@ -12,7 +12,7 @@
  
  Class 3 - CRM Framework-20210822
  
- Class 4_ Customer Experience Management-20210829
+ Class 4 - Customer Experience Management-20210829
  
  Class 5 - Customer Insights with Multi-dimensional Analysis-20210905
  
@@ -26,7 +26,7 @@
  
  Class 10 - Up-selling Analysis and Customer Response Models-20211024
  
- Class 11 - AB Testing-20211031 
+ Class 11 - AB Testing-20211031 done
  
  Class 12 - Churn Prediction Model-20211107 done
  
