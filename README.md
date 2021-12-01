@@ -22,7 +22,7 @@
  
  Class 11 - AB Testing-20211031 
  
- Class 12 - Churn Prediction Model-20211107
+ Class 12 - Churn Prediction Model-20211107 done
  
  Class 13 - Voice of Customer Analytics-20211114 done
  
