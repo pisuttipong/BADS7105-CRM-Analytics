@@ -1,4 +1,10 @@
-** BADS7105-CRM-Analytics**
+**BADS7105-Customer Relationship Management Analytics and Intelligence**
+
+**BY Thanachart Ritbumroong, Ph.D.**
+
+**1/2564** 
+
+ Class 0 - Colmplete Advanced Level 8 Courses Datacamp
  
  Class 1 - Customer Analytics Overview-20210808
  
