@@ -4,12 +4,6 @@
 
 ทดลองสร้าง table ใน Big Query โดยใช้ไฟล์ Supermarket Data.csv
 
-Ref.
-
-https://yo-thorn.medium.com/gcp-series-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-google-bigquery-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-1a0f2f2c6049
-
-https://yo-thorn.medium.com/gcp-series-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-google-cloud-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%A2-bf5f71fdf06f
-
 ตัวอย่าง Schema and table บน Big Query เมื่อ create เสร็จแล้ว
 
 ![image](https://user-images.githubusercontent.com/73054276/144172708-77e22720-53ca-4a27-9f72-1b993be9254d.png)
@@ -55,3 +49,9 @@ Churn Customer ใช้การเช็ค Last_purchase_date = SHOP_DATE เ
 ลองทำบน data studio แล้ว plot graph ไม่เป็นครับ จึงใช้วิธี export csv มาทำบน tableau แทนครับ
 
 ![image](https://user-images.githubusercontent.com/73054276/144035544-3785f2bc-dd01-4ec4-bc7e-b25a60ff5a4b.png)
+
+Ref.
+
+https://yo-thorn.medium.com/gcp-series-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-google-bigquery-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-1a0f2f2c6049
+
+https://yo-thorn.medium.com/gcp-series-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-google-cloud-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%A2-bf5f71fdf06f
