@@ -24,6 +24,6 @@
  
  Class 12 - Churn Prediction Model-20211107
  
- Class 13 - Voice of Customer Analytics-20211114
+ Class 13 - Voice of Customer Analytics-20211114 done
  
  Class 14 - AI and CRM-20211128
