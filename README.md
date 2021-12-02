@@ -1,4 +1,4 @@
-**BADS7105-Customer Relationship Management Analytics and Intelligence**
+# BADS7105-Customer Relationship Management Analytics and Intelligence
 
 **BY Thanachart Ritbumroong, Ph.D.**
 
