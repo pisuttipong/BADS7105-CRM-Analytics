@@ -26,10 +26,18 @@
  
  Class 10 - Up-selling Analysis and Customer Response Models-20211024
  
- Class 11 - AB Testing-20211031 done
+ Class 11 - AB Testing-20211031
  
- Class 12 - Churn Prediction Model-20211107 done
+    HW11 - AB Testing (Group) done
  
- Class 13 - Voice of Customer Analytics-20211114 done
+ Class 12 - Churn Prediction Model-20211107
+ 
+    HW12 - Churn Prediction Analysis done
+ 
+ Class 13 - Voice of Customer Analytics-20211114 
+ 
+    HW13 - Voice of Customer done
  
  Class 14 - AI and CRM-20211128
+ 
+ HW14 - Design Thinking
