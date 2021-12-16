@@ -22,7 +22,11 @@
  
  **Class 8 - Customer Segmentation-20210926**
  
+    HW08 - Customer Segmentation
+ 
  **Class 9 - Cross-selling models-20211017**
+ 
+    HW09 - Cross-selling models (Product Recomendation)
  
  **Class 10 - Up-selling Analysis and Customer Response Models-20211024**
  
