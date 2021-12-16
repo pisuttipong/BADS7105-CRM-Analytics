@@ -16,7 +16,7 @@
  
  **Class 5 - Customer Insights with Multi-dimensional Analysis-20210905**
  
-    HW05 - CLV Dashboard
+    HW05 - CLV Dashboard done
  
  **Class 6 - Customer Journey-20210912**
  
