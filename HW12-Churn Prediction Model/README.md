@@ -16,9 +16,9 @@
 
 1.Script SQL : Query on Google Big Query
 
-ส่วนแรก Customer จะเป็น Preparation data Detail of Customer
+ส่วนแรก **Customer** จะเป็น Preparation data Detail of Customer
 
-ส่วนที่2 Status จะเป็น flag label NewCustomer, RepeatCustomer, ReactivatedCustomer
+ส่วนที่2 **Status** จะเป็น flag label NewCustomer, RepeatCustomer, ReactivatedCustomer
 
 New Customer คือ repeat_customer =1 หรือ repeat_month = null คือลูกค้าใหม่ 
 
@@ -27,7 +27,7 @@ Repeat Customer คือ repeat_month =1 เดือนที่แล้ว�
 Reactivated Customer เดือนที่แล้วไม่มา repeat_month >1 
 
 
-ส่วนที่3 Churn จะเป็น flag label Churn
+ส่วนที่3 **Churn** จะเป็น flag label Churn
 
 Churn Customer ใช้การเช็ค Last_purchase_date = SHOP_DATE เป็นวันสุดท้ายที่เค้ามา แล้วเช็คว่าวันสุดท้ายต้องห่างจาก วัน reference 2008-06-01 มากกว่า 30 วัน จึงนับว่า cust นั้น churn
 
