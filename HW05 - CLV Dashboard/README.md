@@ -4,7 +4,7 @@
 
 -แถวบนจะเป็นข้อมูลทั่วไปเช่น Sum Spend, Sum Quantity, Avg. Ticket Size
 
--Bar Chart จะดูสัดส่วนลูกค้าระหว่าง High Value & Low Value ในแต่ละเดือนที่เลือกดู การแบ่งกลุ่มลูกค้าทำได้โดยใช้ดู Distribution ของ Spend/Freq/Quantity แล้วเลือก Percentile75 ของค่าทั้ง 3 เป็นตัวแบ่งกลุ่มลูกค้า
+-Bar Chart จะดูสัดส่วนลูกค้าระหว่าง High Value & Low Value ในแต่ละเดือนที่เลือกดู การแบ่งกลุ่มลูกค้าใช้ Theshold base โดยใช้ Percentile75 ของ Spend/Freq/Quantity 
 
 High Value Customer: Spend > 133 / Freq > 11 / Quantity > 90 
 
