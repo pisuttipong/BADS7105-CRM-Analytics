@@ -24,7 +24,7 @@
  
  **Class 8 - Customer Segmentation-20210926**
  
-    HW08 - Customer Segmentation
+    HW08 - Customer Segmentation done
  
  **Class 9 - Cross-selling models-20211017**
  
