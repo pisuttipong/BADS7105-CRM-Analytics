@@ -4,17 +4,8 @@
 
 
 
-Comment: จากที่ลองปรับ Code และพบว่า
+![image](https://user-images.githubusercontent.com/73054276/146628261-7adc1475-4e45-4eb2-be7d-945071fb0e50.png)
 
-เมื่อคนซื้อ ITEM1 : (พลาสเตอร์บรรเทาปวด ตราเสือ, Salmon Sashimi) และมักจะซื้อ ITEM2: (ยาดม)
+///////////////////////////////////////////////////////////////
 
-Attencedent support = 0.5  (ใน 100 transection item1 เกิด 50 ครั้ง)
-
-consequent support = 0.825 (ใน 100 transection item2 เกิด 82.5 ครั้ง)
-
-support = 0.5 (ใน 100 transection item1 & item2 เกิดพร้อมกัน 50 ครั้ง)
-
-confidence = 1.0 (ค่าความมั่นใจ 1 = 100%)
-
-lift = 1.21 (ค่ายิ่งมาก โอกาสพบเจอยิ่งน้อย)
-
+**Code!!**
