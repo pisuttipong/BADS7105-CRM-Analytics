@@ -4,7 +4,11 @@ Campaign_Response_Model (อาจารย์ให้ลองปรับจ�
 
 1. Data imbalance มาก
 
+![image](https://user-images.githubusercontent.com/73054276/146980291-401a036b-44ff-43e8-9649-c979db09c01e.png)
+
 2. Model ค่อนข้าง Overfit โดยดูจาก precision/recall/f1 ของ test set นั้นต่ำกว่า train set มาก
+
+![image](https://user-images.githubusercontent.com/73054276/146980239-1349d25b-79f5-45b6-8f1d-b18e0ed86f6c.png)
 
 จาก ref. https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ พบว่า parameter ที่เกี่ยวกับ overfit & Imbalance คือ
 
@@ -51,6 +55,7 @@ Best AUC (0.709), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 3.XGBoost model best parameter grid search CLV --> Best AUC (0.709), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 
 ////////////////////////////////////////////////////////////////////
+
 **code detail**
 
 data set ที่ใช้มี response กับ transactions
