@@ -9,3 +9,5 @@ Class08 Customer Segment
 ![image](https://user-images.githubusercontent.com/73054276/146575494-a8328fc7-81da-4663-9713-405e66b51b78.png)
 
 ![image](https://user-images.githubusercontent.com/73054276/146492992-3b53852f-6868-4c9a-a3e6-eb6568fd7f0e.png)
+
+![image](https://user-images.githubusercontent.com/73054276/146983542-1972654e-8cb8-464d-91c0-c3676266abce.png)
