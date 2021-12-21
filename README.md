@@ -28,7 +28,7 @@
  
  **Class 9 - Cross-selling models-20211017**
  
-    HW09 - Cross-selling models (Product Recomendation)
+    HW09 - Cross-selling models (Product Recomendation) done
  
  **Class 10 - Up-selling Analysis and Customer Response Models-20211024**
  
