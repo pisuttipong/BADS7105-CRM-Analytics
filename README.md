@@ -32,7 +32,7 @@
  
  **Class 10 - Up-selling Analysis and Customer Response Models-20211024**
  
-    HW10 - Campaign Response Model
+    HW10 - Campaign Response Model done
  
  **Class 11 - AB Testing-20211031**
  
