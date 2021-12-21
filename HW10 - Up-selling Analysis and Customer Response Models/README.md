@@ -48,9 +48,9 @@ Best AUC (0.709), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 
 สรุป
 
-1.XGBoost model - SMOTE RFM --> Test Set Precision (0.17), Recall (0.80), F1 (0.28)
+1.XGBoost model - SMOTE RFM --> Test Set AUC (0.678), Precision (0.17), Recall (0.80), F1 (0.28)
 
-2.XGBoost model - SMOTE CLV --> Test Set Precision (0.17), Recall (0.80), F1 (0.28)
+2.XGBoost model - SMOTE CLV --> Test Set AUC (0.691), Precision (0.17), Recall (0.80), F1 (0.28)
 
 3.XGBoost model best parameter grid search CLV --> Best AUC (0.709), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 
