@@ -43,7 +43,37 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Remark: ใช้ Elbow ในการพิจารณาหาค่า K ที่เหมาะสม ซึ่งก็เห็นว่า K=4 และ K=5 ค่า WCSS ไม่ค่อยเปลี่ยนแปลงแล้ว ดังนั้น ค่า K=4 จึงเหมาะสมแล้วกับข้อมูลชุดนี้
+**code detail**
+
+ทำ document embedding and dimension reduction เพื่อที่จะเปรียบเทียบรีวิวที่พูดถึงเรื่องคล้ายๆกัน ไปอยู่กลุ่มเดียวกัน
+
+![image](https://user-images.githubusercontent.com/73054276/147036294-a56dd1e3-a4d7-4cd1-b5e3-5f3d8972db4d.png)
+
+ ทำ KMeans ก่อนโดย ใช้ Elbow ในการพิจารณาหาค่า K ที่เหมาะสม ซึ่งก็เห็นว่า K=4 และ K=5 ค่า WCSS ไม่ค่อยเปลี่ยนแปลงแล้ว ดังนั้น ค่า K=4 จึงเหมาะสมแล้วกับข้อมูลชุดนี้
 
 ![image](https://user-images.githubusercontent.com/73054276/144161233-75c88cdf-a840-4b74-b10d-4708b1f7e41d.png)
+
+ได้กลุ่ม cluster review ออกมา 4 กลุ่ม
+
+![image](https://user-images.githubusercontent.com/73054276/147036551-64f6daaa-4a01-49c6-9df0-6a94a203701e.png)
+
+ทำ regex 
+
+![image](https://user-images.githubusercontent.com/73054276/147036644-5b2e6a2c-b9b4-47a2-ba7d-9eff9336da6b.png)
+
+define a function to tokenize a sentence into words and create new_words ในการทำ clean and tokenize sentences
+
+![image](https://user-images.githubusercontent.com/73054276/147036718-37860846-eda5-4595-90e3-5cb881603877.png)
+  
+ผลลัพธ์ Kmeans 
+
+![image](https://user-images.githubusercontent.com/73054276/147036894-5c8c2c97-3762-4dce-89a8-9d490bcc9597.png)
+
+Agglomorative Clustering with cosine similarity
+
+![image](https://user-images.githubusercontent.com/73054276/147036950-aff1c71f-e6d1-4576-880d-6fbaf48c93da.png)
+
+ผลลัพธ์ Agglomorative 
+
+![image](https://user-images.githubusercontent.com/73054276/147036985-4607a403-ed21-4bb3-a40f-2e971e15d29c.png)
 
