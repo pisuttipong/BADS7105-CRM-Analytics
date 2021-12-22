@@ -16,6 +16,8 @@
 
 **code detail**
 
+สำรวจข้อมูล และ Clean wording ให้เหลือ "ซื้อ" กับ "ไม่ซื้อ" ปรับจาก "ซื้อ" เป็น 1 และ  "ไม่ซื้อ" เป็น 0
+
 ![image](https://user-images.githubusercontent.com/73054276/147032394-49adbcd2-b04a-4d90-adcd-894c903d41bb.png)
 
 ![image](https://user-images.githubusercontent.com/73054276/147032877-7ba798ef-7ab4-4e43-b28c-72dff65a2818.png)
