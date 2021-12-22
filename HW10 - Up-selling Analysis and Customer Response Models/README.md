@@ -10,7 +10,7 @@ Campaign_Response_Model (อาจารย์ให้ลองปรับจ�
 
 ![image](https://user-images.githubusercontent.com/73054276/146980239-1349d25b-79f5-45b6-8f1d-b18e0ed86f6c.png)
 
-จาก ref. https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ พบว่า parameter ที่เกี่ยวกับ overfit & Imbalance คือ
+จาก ref. https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ พบว่า parameter tuning ของ Xgboost ที่เกี่ยวกับ overfit & Imbalance คือ
 
 ![image](https://user-images.githubusercontent.com/73054276/146975132-100f97ca-7c8d-4320-9ef1-ac8d3960dc1f.png)
 
@@ -47,6 +47,8 @@ Best AUC (0.709), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 ![image](https://user-images.githubusercontent.com/73054276/146979275-06edd4f3-6b2f-4cd1-babf-c78be1733c01.png)
 
 สรุป
+
+0.XGBoost model best parameter grid search CLV ของอาจารย์ --> Best AUC (0.708), Test Set Precision (0.18), Recall (0.77), F1 (0.29)
 
 1.XGBoost model - SMOTE RFM --> Test Set AUC (0.678), Precision (0.17), Recall (0.80), F1 (0.28)
 
