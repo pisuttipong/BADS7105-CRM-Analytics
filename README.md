@@ -18,7 +18,7 @@ Pisuttipong Mekdang 6220422083 (DS6)
  
  **Class 5 - Customer Insights with Multi-dimensional Analysis-20210905**
  
-    HW05 - CLV Dashboard done
+    HW01 - CLV Dashboard done
  
  **Class 6 - Customer Journey-20210912**
  
@@ -26,28 +26,28 @@ Pisuttipong Mekdang 6220422083 (DS6)
  
  **Class 8 - Customer Segmentation-20210926**
  
-    HW08 - Customer Segmentation done
+    HW02 - Customer Segmentation done
  
  **Class 9 - Cross-selling models-20211017**
  
-    HW09 - Cross-selling models (Product Recomendation) done
+    HW03 - Cross-selling models (Product Recomendation) done
  
  **Class 10 - Up-selling Analysis and Customer Response Models-20211024**
  
-    HW10 - Campaign Response Model done
+    HW04 - Campaign Response Model done
  
  **Class 11 - AB Testing-20211031**
  
-    HW11 - AB Testing (Group) done
+    HW05 - AB Testing (Group) done
  
  **Class 12 - Churn Prediction Model-20211107**
  
-    HW12 - Churn Prediction Analysis done
+    HW06 - Churn Prediction Analysis done
  
  **Class 13 - Voice of Customer Analytics-20211114** 
  
-    HW13 - Voice of Customer done
+    HW07 - Voice of Customer done
  
  **Class 14 - AI and CRM-20211128**
  
-    HW14 - Design Thinking
+    HW08 - Design Thinking
