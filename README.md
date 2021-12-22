@@ -1,8 +1,10 @@
 # BADS7105-Customer Relationship Management Analytics and Intelligence
 
-**BY Thanachart Ritbumroong, Ph.D.**
+BY Thanachart Ritbumroong, Ph.D.
 
-**1/2564** 
+Pisuttipong Mekdang 6220422083 (DS6)
+
+----------------------------------------------------------------------------------------------------------------------
 
  **Class 0 - Colmplete Advanced Level 8 Courses Datacamp**
  
