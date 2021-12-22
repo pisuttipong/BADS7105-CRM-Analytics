@@ -1,4 +1,4 @@
-**Class08 Customer Segment **
+**Class08 Customer Segment**
 
 อาจารย์แบ่งกลุ่ม **Group9	Pisuttipong Mekdang/Thanisorn Saraphan/Wuttipon Assawaniramol** แล้วให้ช่วยกัน edit code ทำ KMeans จัดกลุ่มลูกค้า และตั้งชื่อกลุ่มเหล่านั้นแบบเก๋ๆ ตัวอย่างเช่น...
 
