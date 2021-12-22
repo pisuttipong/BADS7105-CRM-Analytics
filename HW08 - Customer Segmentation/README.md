@@ -4,7 +4,7 @@ Class08 Customer Segment
 
 ![InterPreting KMeans Result](https://user-images.githubusercontent.com/73054276/146485155-7faa20bb-1323-4efd-bce6-3a2c17255ba3.PNG)
 
-ใช้ DT ช่วยในการหาความหมายของทั้ง 5 กลุ่ม ผลลัพธ์ที่ได้
+ใช้ DT ช่วยในการหาความหมายของทั้ง 5 กลุ่ม คือ DT จะแสดงให้เราเห็นว่า classifier แต่ละกลุ่มด้วย criteria อะไร เพื่อที่เราจะได้นำค่า criteria เหล่านั้นมาหาความหมายหรือตั้งชื่อกลุ่มนั้นๆ ซึ่งผลลัพธ์ที่ได้ดังรูปครับ
 
 ![image](https://user-images.githubusercontent.com/73054276/146575494-a8328fc7-81da-4663-9713-405e66b51b78.png)
 
