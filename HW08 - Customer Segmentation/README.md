@@ -8,6 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/73054276/146575494-a8328fc7-81da-4663-9713-405e66b51b78.png)
 
+สรุป Criteria ที่ DT ใช้แบ่งกลุ่ม และตั้งชื่อกลุ่ม + หา Solution ในการทำ recomendation ให้แต่ละกลุ่ม
+
 ![image](https://user-images.githubusercontent.com/73054276/146492992-3b53852f-6868-4c9a-a3e6-eb6568fd7f0e.png)
 
 ![image](https://user-images.githubusercontent.com/73054276/146983963-22d03d79-7d9e-4013-9ab9-fa9931a33279.png)
