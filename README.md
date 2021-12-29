@@ -50,4 +50,4 @@ Pisuttipong Mekdang 6220422083 (DS6)
  
  **Class 14 - AI and CRM-20211128**
  
-    HW08 - Design Thinking
+    HW08 - Design Thinking done
